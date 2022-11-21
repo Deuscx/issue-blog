@@ -1,0 +1,26 @@
+{
+  "name": "issue-blog",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deuscx/issue-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deuscx/issue-blog/issues"
+  },
+  "homepage": "https://github.com/Deuscx/issue-blog#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "dotenv": "^16.0.3",
+    "tsx": "^3.12.1",
+    "vite": "^3.2.4"
+  },
+  "dependencies": {
+    "@octokit/rest": "^19.0.5"
+  }
+}
